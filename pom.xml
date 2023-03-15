@@ -68,4 +68,12 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+         
+    <repositories>
+         <repository>
+             <id>jitpack.io</id>
+             <url>https://www.jitpack.io</url>
+         </repository>
+    </repositories>
+         
 </project>
