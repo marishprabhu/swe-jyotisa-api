@@ -22,7 +22,7 @@
     <dependencies>
         <dependency>
             <groupId>com.github.marishprabhu</groupId>
-            <artifactId>swe</artifactId>
+            <artifactId>swe-java-lib</artifactId>
             <version>2.10.03j</version>
         </dependency>
 
